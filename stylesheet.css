@@ -1,0 +1,66 @@
+.word {
+    display: block;
+    font: italic;
+    font-family: monospace;
+}
+
+.count {
+    margin-left: 27px;
+    display: inline-block;
+    font-family: monospace;
+    font: icon;
+}
+
+.word2 {
+    display: inline-block;
+    margin-left: 50px;
+    font-family: fantasy;
+    font: bold;
+}
+
+.newdiv {
+    margin-bottom: 25px;
+}
+
+.newdiv:hover {
+    background-color: green;
+    cursor: pointer;
+}
+
+#body {
+    background-color: coral;
+}
+
+#itemin {
+    border: 15px ridge lightblue;
+    border-radius: 200px;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+#categoryin {
+    border: 15px ridge lightgreen;
+    border-radius: 200px;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+button {
+    border: 15px groove magenta;
+    border-radius: 250px;
+    font-family: monospace;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: yellow;
+    display: inline-block;
+}
+
+.newbox {
+    border: 10px dashed black;
+    background-color: coral;
+}
+
+.newbox:hover {
+    background-color: crimson;
+    cursor: pointer;
+}
